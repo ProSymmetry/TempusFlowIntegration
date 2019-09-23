@@ -33,4 +33,14 @@ The raw url should look something like this: [https://raw.githubusercontent.com/
 
 ## Create a connection
 
-TODO
+1. On the sidebar, expand Data and click Connections.
+
+![](./Assets/GettingStarted/FlowSidebarConnections.png)
+
+2. Click New connection at the top of the screen.
+
+![](./Assets/GettingStarted/FlowNewConnection.png)
+
+3. Locate the connector previous created in the Create a Tempus connection section. In the window that opens, enter a valid Tempus API token in the following format (without quotes): "Bearer 1-11111111-1111-1111-1111-111111111111".
+
+![](./Assets/GettingStarted/FlowNewConnectionConfiguration.png)
